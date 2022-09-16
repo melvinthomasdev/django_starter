@@ -13,7 +13,7 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
         # old = options["old"][0]
-        old = "myproject"
+        old = "django_starter"
         new = options["new"][0]
 
         base = str(settings.BASE_DIR)
