@@ -7,11 +7,7 @@ To rename project run
 ```python
 python manage.py renameproject <new_project_name>
 ```
-You can use the start-fresh.sh script to clear the commit history and start a new commit history.
-Run the script
-```
-bash start-fresh.sh
-```
+
 This is a work in progress and I will hopefully add more to it.
 
 This can still be used to start projects though ;-)
