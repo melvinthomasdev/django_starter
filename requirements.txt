@@ -23,7 +23,7 @@ MouseInfo==0.1.3
 numpy
 outcome==1.2.0
 packaging==21.3
-pandas==1.4.3
+pandas
 Pillow==9.2.0
 PyAutoGUI==0.9.53
 pycparser==2.21
